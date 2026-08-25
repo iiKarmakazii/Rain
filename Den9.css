@@ -526,6 +526,8 @@ Please do not remove credit
 /* IN-CAVE BACKGROUND */
 .lionImage>img {
 content: url('https://iili.io/CDRuD7t.jpg')!important;
+        width: 640px;
+height: 500px;
 }
  
 /* If you have a featured lion set then you'll want to use this one! ↴ */
@@ -533,5 +535,7 @@ content: url('https://iili.io/CDRuD7t.jpg')!important;
 /* FEATURED LION BACKGROUND */
 .lionImage>div>img:first-child {
 content: url('https://iili.io/CDRuD7t.jpg')!important;
+        width: 640px;
+height: 500px;
 }
  
